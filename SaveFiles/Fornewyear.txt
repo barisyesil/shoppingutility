@@ -1,0 +1,6 @@
+5
+apple,Tasty and great for making pies! ,15.0
+orange,Juicy fruit and great for making juice. İt contains vitamin C which prevent flu and cold!,16.7
+watermelon,Quench your thirst with this juicy and hydrating summer delight. Perfect for picnics!,20.0
+sweet potato,Sweet and nutritious. Sweet potatoes are perfect for roasting mashing or making fries.,16.0
+plum,Indulge in the deep and rich flavor of plums. A great source of vitamins and a tasty addition to salads. ,16.0

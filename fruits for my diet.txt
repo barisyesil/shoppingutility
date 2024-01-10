@@ -1,0 +1,5 @@
+4
+apple,Tasty and great for making pies! ,15.0
+orange,Juicy fruit and great for making juice. İt contains vitamin C which prevent flu and cold!,16.7
+watermelon,Quench your thirst with this juicy and hydrating summer delight. Perfect for picnics!,20.0
+strawberry,Sweet and succulent berries. Ideal for desserts or a refreshing snack. Packed with antioxidants!,18.2

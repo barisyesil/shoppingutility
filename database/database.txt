@@ -1,0 +1,27 @@
+26
+apple,Tasty and great for making pies! ,15.0
+orange,Juicy fruit and great for making juice. İt contains vitamin C which prevent flu and cold!,16.7
+grape,İt is a great midnight snack!,14.0
+banana,Ripe and full of potassium for a healthy snack!,12.5
+strawberry,Sweet and succulent berries. Ideal for desserts or a refreshing snack. Packed with antioxidants!,18.2
+watermelon,Quench your thirst with this juicy and hydrating summer delight. Perfect for picnics!,20.0
+pineapple,Tropical sweetness in every bite! Enjoy the exotic flavor and boost your immune system.,22.5
+mango,Savor the tropical taste of this luscious fruit. Rich in vitamins and adds a burst of flavor to any dish! ,25.0
+kiwi,Small but mighty! This vibrant green fruit is loaded with vitamin C and adds a zing to your day.,13.8
+peach,A velvety and sweet stone fruit. Perfect for snacking or as a delightful addition to your favorite desserts. ,14.5
+cherry,Pop these juicy gems for a burst of sweetness. Cherries are not only delicious but also high in antioxidants!,17.3
+plum,Indulge in the deep and rich flavor of plums. A great source of vitamins and a tasty addition to salads. ,16.0
+raspberry,Experience the bold and tangy taste of raspberries. Packed with fiber and antioxidants for a healthy treat!,19.8
+carrot,Crisp and vibrant orange. These carrots are perfect for snacking or adding a splash of color to your salads.,10.2
+broccoli,Nutrient-packed and versatile broccoli is a delicious addition to stir-fries or as a side dish.,14.0
+spinach,Dark leafy and packed with iron spinach is a nutritional powerhouse for salads and smoothies.,12.8
+bell pepper,Vibrant and crunchy bell peppers add a burst of color and flavor to your favorite dishes.,15.5
+cucumber,Refreshing and hydrating cucumbers are a crisp addition to salads and make a great snack.,8.7
+zucchini,Versatile and mild zucchini is perfect for sautéing grilling or adding to pasta dishes.,11.3
+tomato,Juicy and ripe tomatoes are a kitchen staple for salads sandwiches and pasta sauces.,9.5
+cauliflower,Mild and versatile cauliflower can be roasted mashed or used as a low-carb substitute. ,13.2
+sweet potato,Sweet and nutritious. Sweet potatoes are perfect for roasting mashing or making fries.,16.0
+asparagus,Tender and flavorful. Asparagus is a delicious side dish that's rich in vitamins.,18.4
+melon,it is great for coctail,14.0
+milk,Fresh dairy. straight from the nature.,3.0
+egg,it comes from the chicken. it is great for breakfast,10.0
